@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Tako Chinchaladze 👋
 
-<!--
-**tak862/tak862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Android Developer
+I am a passionate Android Developer currently focusing on building apps with **Kotlin** and **Firebase**. I love creating smooth user experiences and learning new technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Kotlin, Java
+* **Database:** Firebase Auth, SQLite
+* **Architecture:** Single Activity, Navigation Component
+* **Libraries:** Retrofit, Glide, WorkManager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI for Development
+I integrate AI tools like **ChatGPT** and **Claude** into my workflow for:
+* Debugging complex Android issues.
+* Optimizing UI animations and transitions.
+* Improving documentation and code readability.
+
+### 🔗 Connect with me
+* [LinkedIn](www.linkedin.com/in/tamar-chinchaladze-404a32298)
+* [My Featured Project: Movie App](https://github.com/tak862/FinalExamTamar)
+
+---
+*“Learning every day to build better mobile solutions.”*
